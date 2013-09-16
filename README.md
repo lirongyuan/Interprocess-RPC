@@ -1,6 +1,6 @@
 Interprocess Remote Procedure Calls
 ===================================
-Project link: http://www.cs.purdue.edu/homes/grr/cs354/
+Project link: http://www.cs.purdue.edu/homes/grr/cs354/lab3-rpc-smp/
 
 Implemented a mechanism to call procedures that  are implemented in other processes.
 A typicial use for this mechanism is a database that runs in a separate DB server
